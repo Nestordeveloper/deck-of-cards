@@ -1,0 +1,14 @@
+C:\Users\snela\Desktop\deck-of-card\bin\Debug\net7.0\deck-of-card.exe
+C:\Users\snela\Desktop\deck-of-card\bin\Debug\net7.0\deck-of-card.deps.json
+C:\Users\snela\Desktop\deck-of-card\bin\Debug\net7.0\deck-of-card.runtimeconfig.json
+C:\Users\snela\Desktop\deck-of-card\bin\Debug\net7.0\deck-of-card.dll
+C:\Users\snela\Desktop\deck-of-card\bin\Debug\net7.0\deck-of-card.pdb
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.AssemblyInfoInputs.cache
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.AssemblyInfo.cs
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.csproj.CoreCompileInputs.cache
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.dll
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\refint\deck-of-card.dll
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.pdb
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\deck-of-card.genruntimeconfig.cache
+C:\Users\snela\Desktop\deck-of-card\obj\Debug\net7.0\ref\deck-of-card.dll
