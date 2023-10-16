@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-class Carta
+﻿class Carta
 {
     public string Nombre { get; set; }
     public string Pinta { get; set; }
